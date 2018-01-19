@@ -19,4 +19,8 @@ csdcsd
 sss
 sdsff
 好啊
+<<<<<<< HEAD
 cacwecwecwe
+=======
+sdasdasdasda
+>>>>>>> branch_test
