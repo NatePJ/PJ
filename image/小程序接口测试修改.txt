@@ -19,8 +19,4 @@ csdcsd
 sss
 sdsff
 好啊
-<<<<<<< HEAD
 123
-=======
-456
->>>>>>> branch_test
