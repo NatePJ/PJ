@@ -1,0 +1,14 @@
+/noauth/activityParticipationCode/openIdByMemId/{openId}    openId不存在返回
+
+/noauth/activityUsage/memId/{memId}   memId不存在
+
+/noauth/activityAccount/memId/{memId}  memId不存在返回null,不要返回 “”
+
+/noauth/activitySharingRecord/filterBySharingOpenId 邀请码不存在，返回null,原因放在descript中
+
+/noauth/activitySharingRecord
+    + "detailDescription":{"openId":["This field must be unique."],"sharingUnionId":["This field is required."],"sharingOpenId":["This field is required."]},"resultContent":null
+    + activityCode 不存在，返回了一个字符串
+
+
+查询时间和期数
