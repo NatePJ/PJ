@@ -19,8 +19,4 @@ csdcsd
 sss
 sdsff
 好啊
-<<<<<<< HEAD
-7889
-=======
-123as
->>>>>>> master
+sdasdasdasda
