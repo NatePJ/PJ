@@ -12,15 +12,4 @@
 
 
 查询时间和期数
-<<<<<<< HEAD
-=======
->>>>>>> master
-csdcsd
-sss
-sdsff
-好啊
-<<<<<<< HEAD
-cacwecwecwe
-=======
-sdasdasdasda
->>>>>>> branch_test
+
